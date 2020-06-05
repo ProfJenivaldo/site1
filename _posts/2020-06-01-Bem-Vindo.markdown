@@ -1,0 +1,6 @@
+---
+title:      Bem vindo
+author:     Prof. Jenivaldo Lisboa
+subtitle:   Vamos viajar pelos mares do conhecimento
+---
+Bem vindos jovens viajantes deste oceano cósmico, espero que este espaço nos seja favorável para gerar muito conhecimento e possibilitar que possamos velejar cada vez mais pelo mar da ciência.
