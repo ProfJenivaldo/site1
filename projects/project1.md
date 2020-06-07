@@ -2,7 +2,7 @@
 layout: project
 title: Currículo
 description: Prof. Jenivaldo Lisboa de Araújo
-header-img: "img/home-bg.jpg"
+header-img: "https://github.com/ProfJenivaldo/site1/blob/master/img/home-bg.jpg"
 category: Currículo
 ---
 **Formação acadêmica/titulação**
