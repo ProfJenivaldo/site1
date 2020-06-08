@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: page
 title: Currículo
 description: Prof. Jenivaldo Lisboa de Araújo
 header-img: "https://github.com/ProfJenivaldo/site1/blob/master/img/home-bg.jpg"
