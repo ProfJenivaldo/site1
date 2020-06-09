@@ -1,8 +1,6 @@
----
-layout: page
+---layout: page
 title: Currículo
 description: Prof. Jenivaldo Lisboa de Araújo
-header-img: "img/home-bg.jpg"
 ---
 **Formação acadêmica/titulação**
 
