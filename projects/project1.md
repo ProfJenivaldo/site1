@@ -4,6 +4,9 @@ title: Currículo
 description: Prof. Jenivaldo Lisboa de Araújo
 header-img: "img/home-bg.jpg"
 ---
+
+![Prof. Jenivaldo Lisboa](img/Avatar.png) **[Currículo Lattes](http://lattes.cnpq.br/5546232866202386)**
+
 # Formação acadêmica/titulação
 
 **(2014 - 2018)** - Doutorado em Ciências - IQB/UFAL - Tese: [Estudo da aplicação de processos oxidativos avançados no tratamento de efluente urbano](http://www.repositorio.ufal.br/handle/riufal/3525) - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. _post doc_ Josealdo Tonholo
