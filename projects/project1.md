@@ -5,7 +5,10 @@ description: Prof. Jenivaldo Lisboa de Araújo
 header-img: "img/home-bg.jpg"
 ---
 
-![Prof. Jenivaldo Lisboa](img/Avatar.png) **[Currículo Lattes](http://lattes.cnpq.br/5546232866202386)**
+
+<img src="https://github.com/ProfJenivaldo/site1/blob/master/img/Avatar.png?raw=true" alt="Avatar.png" style="width:120px;"/>
+ 
+# **[Currículo Lattes](http://lattes.cnpq.br/5546232866202386)**
 
 # Formação acadêmica/titulação
 
