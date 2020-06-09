@@ -10,19 +10,20 @@ header-img: "img/home-bg.jpg"
 ## Química
 ### 1ª Série
 Tema|Apresentação|Texto|Vídeo
-:----:|:----:|:----:|:----:|:----:
+:----:|:----:|:----:|:----:
 Ligações químicas | [Link](https://drive.google.com/file/d/1JiECPLonayqr6rzlB82NL2fLwak6zSkm/view?usp=sharing) | - | -
 
 ### 2ª Série
 
  Tema |   Apresentação|Texto|Vídeo
-:----:|:----:|:----:|:----:|:----:
+:----:|:----:|:----:|:----:
 Introdução ao estudo de soluções |- | - | [Link](https://youtu.be/vMhdA_d_5_U)
 Exercício - Concentração de soluções | - | - |[Link](https://youtu.be/ZdU1r1Oy2TE)
 
 ### 3ª Série
+
 Tema | Apresentação|Texto|Vídeo
-:----:|:----:|:----:|:----:|:----:
+:----:|:----:|:----:|:----:
 Introdução à Química Orgânica | - | - | [Link](https://www.youtube.com/watch?v=u0TRjmN5itE&t=5s)
 Funções Orgânicas |- | - | [Link](https://youtu.be/g2QUJJqcPyQ)
 Exercício - Funções Orgânicas | - | - | [Link](https://youtu.be/8l48-dUrPhE)
