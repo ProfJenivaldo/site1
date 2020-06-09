@@ -18,10 +18,7 @@ __(2006 - 2012)__ - Licenciatura em Química - Universidade Estadual de Alagoas/
 
 ## Patente
 
-<div style="text-align: justify">
-
 TONHOLO, J. ; ZANTA, C. L. P. S. ; UCHÔA, S. B. B. ; SOLETTI, J. I. ; ARAÚJO, J. L. . Tratamento de efluente proveniente da lavagem de biodiesel com uso de eletroflotação/eletrooxidação e Fenton acoplados. 2015, Brasil. Patente: Privilégio de Inovação. Número do registro: [BR1020150309759](https://patentimages.storage.googleapis.com/92/f3/8f/a5333ad8252d44/BR102015030975A2.pdf), título: "Tratamento de efluente proveniente da lavagem de biodiesel com uso de eletroflotação/eletrooxidação e Fenton acoplados" , Instituição de registro: INPI - Instituto Nacional da Propriedade Industrial. Depósito: 10/12/2015
-</div>
 
 ## Artigos
 
