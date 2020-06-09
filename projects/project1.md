@@ -6,21 +6,13 @@ header-img: "img/home-bg.jpg"
 ---
 # Formação acadêmica/titulação
 
-<div style="text-align: justify">
+**(2014 - 2018)** - Doutorado em Ciências - IQB/UFAL - Tese: [Estudo da aplicação de processos oxidativos avançados no tratamento de efluente urbano](http://www.repositorio.ufal.br/handle/riufal/3525) - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. _post doc_ Josealdo Tonholo
 
-**(2014 - 2018)** - Doutorado em Ciências - IQB/UFAL - Tese: [Estudo da aplicação de processos oxidativos avançados no tratamento de efluente urbano](http://www.repositorio.ufal.br/handle/riufal/3525) - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. _post doc_ Josealdo Tonholo </div>
+ __(2012 - 2014)__ - Mestrado em Ciências - IQB/UFAL - Dissertação: Investigação do Uso de Tecnologia Eletroquímica e da Reação de Fenton no Tratamento de Efluente da Produção de Biodiesel - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. Dr. Abel Coelho da Silva Neto.
 
-<div style="text-align: justify">
+__(2011 - 2013)__ - Especialização em Educação em Ciências - Faculdade Educacional de Araucária (FACEAR) - Monografia: Qualidade Alimentar de Alunos da Rede Pública de Ensino do Município de Cacimbinhas - AL - Orientador: Prof. Dr. Mário Diniz Agra.
 
- __(2012 - 2014)__ - Mestrado em Ciências - IQB/UFAL - Dissertação: Investigação do Uso de Tecnologia Eletroquímica e da Reação de Fenton no Tratamento de Efluente da Produção de Biodiesel - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. Dr. Abel Coelho da Silva Neto. </div>
-
-<div style="text-align: justify">
-
-__(2011 - 2013)__ - Especialização em Educação em Ciências - Faculdade Educacional de Araucária (FACEAR) - Monografia: Qualidade Alimentar de Alunos da Rede Pública de Ensino do Município de Cacimbinhas - AL - Orientador: Prof. Dr. Mário Diniz Agra.</div>
-
-<div style="text-align: justify">
-
-__(2006 - 2012)__ - Licenciatura em Química - Universidade Estadual de Alagoas/Campus III - Monografia:  Práticas Motivacionais no Ensino de Química: Uma Experiência de Estágio no Colégio Municipal Liceu Cacimbinhense - Orientador: Prof. Dr. Marcos Antônio Luz Surica. </div>
+__(2006 - 2012)__ - Licenciatura em Química - Universidade Estadual de Alagoas/Campus III - Monografia:  Práticas Motivacionais no Ensino de Química: Uma Experiência de Estágio no Colégio Municipal Liceu Cacimbinhense - Orientador: Prof. Dr. Marcos Antônio Luz Surica.
 
 # Publicações
 
