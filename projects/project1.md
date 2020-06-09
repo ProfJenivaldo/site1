@@ -2,17 +2,17 @@
 layout: page
 title: Currículo
 description: Prof. Jenivaldo Lisboa de Araújo
-header-img: "https://github.com/ProfJenivaldo/site1/blob/master/img/home-bg.jpg"
-category: Currículo
+header-img: "img/home-bg.jpg"
 ---
 **Formação acadêmica/titulação**
 
-Período | Formação
--------------|--------------
-2014 - 2018 | Doutorado em Ciências - IQB/UFAL - Tese: [Estudo da aplicação de processos oxidativos avançados no tratamento de efluente urbano](http://www.repositorio.ufal.br/handle/riufal/3525) - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. _post doc_ Josealdo Tonholo
-2012 - 2014 | Mestrado em Ciências - IQB/UFAL - Dissertação: Investigação do Uso de Tecnologia Eletroquímica e da Reação de Fenton no Tratamento de Efluente da Produção de Biodiesel - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. Dr. Abel Coelho da Silva Neto.
-2011 - 2013 | Especialização em Educação em Ciências - Faculdade Educacional de Araucária (FACEAR) - Monografia: Qualidade Alimentar de Alunos da Rede Pública de Ensino do Município de Cacimbinhas - AL - Orientador: Prof. Dr. Mário Diniz Agra.
-2006 - 2012 | Licenciatura em Química - Universidade Estadual de Alagoas/Campus III - Monografia:  Práticas Motivacionais no Ensino de Química: Uma Experiência de Estágio no Colégio Municipal Liceu Cacimbinhense - Orientador: Prof. Dr. Marcos Antônio Luz Surica. 
+**2014 - 2018** | Doutorado em Ciências - IQB/UFAL - Tese: [Estudo da aplicação de processos oxidativos avançados no tratamento de efluente urbano](http://www.repositorio.ufal.br/handle/riufal/3525) - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. _post doc_ Josealdo Tonholo
+
+**2012 - 2014** | Mestrado em Ciências - IQB/UFAL - Dissertação: Investigação do Uso de Tecnologia Eletroquímica e da Reação de Fenton no Tratamento de Efluente da Produção de Biodiesel - Orientadora: Prof. Drª Carmem Lúcia de P. e S. Zanta - Coorientador: Prof. Dr. Abel Coelho da Silva Neto.
+
+**2011 - 2013** | Especialização em Educação em Ciências - Faculdade Educacional de Araucária (FACEAR) - Monografia: Qualidade Alimentar de Alunos da Rede Pública de Ensino do Município de Cacimbinhas - AL - Orientador: Prof. Dr. Mário Diniz Agra.
+
+**2006 - 2012** | Licenciatura em Química - Universidade Estadual de Alagoas/Campus III - Monografia:  Práticas Motivacionais no Ensino de Química: Uma Experiência de Estágio no Colégio Municipal Liceu Cacimbinhense - Orientador: Prof. Dr. Marcos Antônio Luz Surica. 
 
 **Publicações**
 
