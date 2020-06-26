@@ -8,7 +8,7 @@ subtitle:   Descrição sobre o trabalho desenvolvido durante o REAENP
 
 <table border="0">
 <tr>
-<td><a href=https://www.youtube.com/watch?v=J2QVrFcLn4E&t=15s>
+<td><a href=https://youtube.com/watch?v=J2QVrFcLn4E&t=15s>
 <center><img src="https://github.com/ProfJenivaldo/site1/blob/master/img/video_icon.png?raw=true" alt="video_icon.png" style="width:60px;"/></center>
 </a></td>
 </tr>
