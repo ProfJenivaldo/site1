@@ -20,6 +20,7 @@ Ligações químicas | [Link](https://drive.google.com/file/d/1JiECPLonayqr6rzlB
 :----:|:----:|:----:|:----:
 Introdução ao estudo de soluções | [Link](https://drive.google.com/file/d/1eXeV0cAJpLTpFutT2ivlXMrx6-oCm1vE/view?usp=sharing) | - | [Link](https://youtu.be/vMhdA_d_5_U)
 Exercício - Concentração de soluções | [Link](https://drive.google.com/file/d/1axzyFUW8G0XiiDI80rb3JUmOt-R14A0t/view?usp=sharing) | [Link](https://drive.google.com/file/d/1vJD8DgPLxs7U6zEUIjswQ_uyEAXdaXkW/view?usp=sharing) |[Link](https://youtu.be/ZdU1r1Oy2TE)
+Projeto - Biofertilizante | [Link](https://drive.google.com/file/d/1y857qT3n11bv15_9qzsRr9TLxfHvrynC/view?usp=sharing) | - | -
 
 ### 3ª Série
 
