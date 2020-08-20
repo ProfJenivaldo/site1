@@ -70,8 +70,8 @@ hr.small {
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    background: transparent;
-    border-bottom: 1px solid transparent;
+    background: black;
+    border-bottom: 1px solid black;
   }
   .navbar-custom .navbar-brand {
     color: black;
