@@ -51,7 +51,7 @@ hr.small {
   border-color: #FFFFFF;
 }
 .navbar-custom {
-  background: white;
+  background: black;
   position: absolute;
   top: 0;
   left: 0;
@@ -199,7 +199,7 @@ hr.small {
   font-size: 20px;
 }
 .intro-header .post-heading .meta a {
-  color: white;
+  color: black;
 }
 @media only screen and (min-width: 768px) {
   .intro-header .post-heading h1 {
