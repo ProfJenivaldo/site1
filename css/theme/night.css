@@ -20,7 +20,7 @@ body {
   color: #eeeeee; }
 
 ::selection {
-  color: white;
+  color: black;
   background: #e7ad52;
   text-shadow: none; }
 
